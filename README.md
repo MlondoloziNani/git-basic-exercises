@@ -1,1 +1,3 @@
-My name is Mlondolozi Nani and I love coding
+My name is Mlondolozi Nani
+In coding Belong
+0b101110001
